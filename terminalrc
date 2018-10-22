@@ -1,5 +1,5 @@
 [Configuration]
-FontName=Ubuntu Mono 11
+FontName=Ubuntu Mono 12
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
@@ -15,7 +15,7 @@ MiscToolbarDefault=FALSE
 MiscConfirmClose=FALSE
 MiscCycleTabs=TRUE
 MiscTabCloseButtons=TRUE
-MiscTabCloseMiddleClick=TRUE
+MiscTabCloseMiddleClick=FALSE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 MiscMiddleClickOpensUri=FALSE
@@ -33,7 +33,9 @@ ColorBackground=#00000bfe162f
 ColorForeground=#ffffffffffff
 ColorPalette=rgb(33,33,33);rgb(214,29,41);rgb(69,123,36);rgb(246,152,30);rgb(24,88,132);rgb(146,30,212);rgb(14,113,124);rgb(239,239,239);rgb(66,66,66);rgb(232,59,63);rgb(122,186,58);rgb(255,234,46);rgb(38,139,210);rgb(211,54,130);rgb(238,232,2123);rgb(217,217,217)
 TitleMode=TERMINAL_TITLE_REPLACE
-BackgroundImageFile=/home/rynnon/Downloads/os-wallp/ubuntustudio-wallp/ubuntustudio_1404_mc.jpg
-BackgroundImageShading=0,550000
-BackgroundDarkness=0,480000
+BackgroundImageFile=/home/mn/Downloads/lxqt-rice/1804-lubuntu-default-wallpaper.png
+BackgroundImageShading=0,800000
+BackgroundDarkness=0,880000
+BackgroundMode=TERMINAL_BACKGROUND_IMAGE
+ShortcutsNoMnemonics=TRUE
 
