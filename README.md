@@ -3,6 +3,7 @@ Files for LXQt-based rice.
 
 - config -> ~/.config/i3/config
 - config.py -> ~/.config/qutebrowser/config.py
+- terminalrc -> ~/.config/xfce4/terminal/terminalrc
 
 DE: LXQt
 
