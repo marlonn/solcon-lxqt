@@ -1,0 +1,2 @@
+# solcon-lxqt
+rice
